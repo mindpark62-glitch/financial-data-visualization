@@ -1,0 +1,81 @@
+.financial-table-container {
+  background: white;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 24px;
+}
+
+.financial-table-container h3 {
+  margin: 0 0 20px 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: #333;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+.financial-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.financial-table thead {
+  background: #f8f9fa;
+}
+
+.financial-table th {
+  padding: 12px 16px;
+  text-align: left;
+  font-weight: 600;
+  color: #333;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.financial-table td {
+  padding: 12px 16px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.financial-table tbody tr:hover {
+  background-color: #f8f9fa;
+}
+
+.account-name {
+  font-weight: 500;
+  color: #333;
+}
+
+.amount {
+  text-align: right;
+  font-family: 'Courier New', monospace;
+  color: #555;
+}
+
+.growth-rate {
+  text-align: right;
+  font-weight: 600;
+}
+
+.growth-rate.positive {
+  color: #2ecc71;
+}
+
+.growth-rate.negative {
+  color: #e74c3c;
+}
+
+@media (max-width: 768px) {
+  .financial-table {
+    font-size: 12px;
+  }
+
+  .financial-table th,
+  .financial-table td {
+    padding: 8px 12px;
+  }
+}
+

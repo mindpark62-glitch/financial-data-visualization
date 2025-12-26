@@ -1,0 +1,430 @@
+<result>
+  <list>
+    <corp_code>00126380</corp_code>
+    <corp_name>삼성전자</corp_name>
+    <corp_eng_name>Samsung Electronics Co., Ltd.</corp_eng_name>
+    <stock_code>005930</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164742</corp_code>
+    <corp_name>SK하이닉스</corp_name>
+    <corp_eng_name>SK hynix Inc.</corp_eng_name>
+    <stock_code>000660</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00413046</corp_code>
+    <corp_name>LG전자</corp_name>
+    <corp_eng_name>LG Electronics Inc.</corp_eng_name>
+    <stock_code>066570</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164779</corp_code>
+    <corp_name>현대자동차</corp_name>
+    <corp_eng_name>Hyundai Motor Company</corp_eng_name>
+    <stock_code>005380</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00356370</corp_code>
+    <corp_name>기아</corp_name>
+    <corp_eng_name>Kia Corporation</corp_eng_name>
+    <stock_code>000270</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00168675</corp_code>
+    <corp_name>POSCO홀딩스</corp_name>
+    <corp_eng_name>POSCO Holdings Inc.</corp_eng_name>
+    <stock_code>005490</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00260985</corp_code>
+    <corp_name>한빛네트</corp_name>
+    <corp_eng_name>HanbitNet, Inc.</corp_eng_name>
+    <stock_code>036720</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00264529</corp_code>
+    <corp_name>엔플렉스</corp_name>
+    <corp_eng_name>Nplex,Inc.</corp_eng_name>
+    <stock_code>040130</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00358545</corp_code>
+    <corp_name>동서정보기술</corp_name>
+    <corp_eng_name>Dong Seo Information Technology Co., Ltd.</corp_eng_name>
+    <stock_code>055000</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00231567</corp_code>
+    <corp_name>애드모바일</corp_name>
+    <corp_eng_name> </corp_eng_name>
+    <stock_code>032600</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00359614</corp_code>
+    <corp_name>리더컴</corp_name>
+    <corp_eng_name>LEADER COMM.Co.,Ltd</corp_eng_name>
+    <stock_code>056140</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00153551</corp_code>
+    <corp_name>허메스홀딩스</corp_name>
+    <corp_eng_name>Hermesholdings Co.,LTD</corp_eng_name>
+    <stock_code>012400</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00344746</corp_code>
+    <corp_name>유티엑스</corp_name>
+    <corp_eng_name>UTX CO.,LTD.</corp_eng_name>
+    <stock_code>045880</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00102385</corp_code>
+    <corp_name>네이버</corp_name>
+    <corp_eng_name>NAVER Corporation</corp_eng_name>
+    <stock_code>035420</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00159445</corp_code>
+    <corp_name>카카오</corp_name>
+    <corp_eng_name>Kakao Corp.</corp_eng_name>
+    <stock_code>035720</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164742</corp_code>
+    <corp_name>SK텔레콤</corp_name>
+    <corp_eng_name>SK Telecom Co., Ltd.</corp_eng_name>
+    <stock_code>017670</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00126186</corp_code>
+    <corp_name>삼성SDI</corp_name>
+    <corp_eng_name>Samsung SDI Co., Ltd.</corp_eng_name>
+    <stock_code>006400</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164779</corp_code>
+    <corp_name>현대모비스</corp_name>
+    <corp_eng_name>Hyundai Mobis Co., Ltd.</corp_eng_name>
+    <stock_code>012330</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00113148</corp_code>
+    <corp_name>LG화학</corp_name>
+    <corp_eng_name>LG Chem, Ltd.</corp_eng_name>
+    <stock_code>051910</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164529</corp_code>
+    <corp_name>삼성바이오로직스</corp_name>
+    <corp_eng_name>Samsung Biologics Co., Ltd.</corp_eng_name>
+    <stock_code>207940</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00356337</corp_code>
+    <corp_name>셀트리온</corp_name>
+    <corp_eng_name>Celltrion Inc.</corp_eng_name>
+    <stock_code>068270</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00134517</corp_code>
+    <corp_name>KB금융</corp_name>
+    <corp_eng_name>KB Financial Group Inc.</corp_eng_name>
+    <stock_code>105560</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164445</corp_code>
+    <corp_name>신한지주</corp_name>
+    <corp_eng_name>Shinhan Financial Group Co., Ltd.</corp_eng_name>
+    <stock_code>055550</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00139067</corp_code>
+    <corp_name>하나금융지주</corp_name>
+    <corp_eng_name>Hana Financial Group Inc.</corp_eng_name>
+    <stock_code>086790</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164779</corp_code>
+    <corp_name>기아</corp_name>
+    <corp_eng_name>Kia Corporation</corp_eng_name>
+    <stock_code>000270</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00262053</corp_code>
+    <corp_name>삼성물산</corp_name>
+    <corp_eng_name>Samsung C&T Corporation</corp_eng_name>
+    <stock_code>028260</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00126308</corp_code>
+    <corp_name>삼성생명</corp_name>
+    <corp_eng_name>Samsung Life Insurance Co., Ltd.</corp_eng_name>
+    <stock_code>032830</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164211</corp_code>
+    <corp_name>삼성화재</corp_name>
+    <corp_eng_name>Samsung Fire & Marine Insurance Co., Ltd.</corp_eng_name>
+    <stock_code>000810</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00168214</corp_code>
+    <corp_name>한국전력</corp_name>
+    <corp_eng_name>Korea Electric Power Corporation</corp_eng_name>
+    <stock_code>015760</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164779</corp_code>
+    <corp_name>SK이노베이션</corp_name>
+    <corp_eng_name>SK Innovation Co., Ltd.</corp_eng_name>
+    <stock_code>096770</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164742</corp_code>
+    <corp_name>SK</corp_name>
+    <corp_eng_name>SK Inc.</corp_eng_name>
+    <stock_code>034730</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00413046</corp_code>
+    <corp_name>LG생활건강</corp_name>
+    <corp_eng_name>LG Household & Health Care Ltd.</corp_eng_name>
+    <stock_code>051900</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00113429</corp_code>
+    <corp_name>LG에너지솔루션</corp_name>
+    <corp_eng_name>LG Energy Solution, Ltd.</corp_eng_name>
+    <stock_code>373220</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164779</corp_code>
+    <corp_name>포스코퓨처엠</corp_name>
+    <corp_eng_name>POSCO Future M Co., Ltd.</corp_eng_name>
+    <stock_code>003670</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00356337</corp_code>
+    <corp_name>카카오뱅크</corp_name>
+    <corp_eng_name>Kakao Bank Corp.</corp_eng_name>
+    <stock_code>323410</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00102385</corp_code>
+    <corp_name>카카오페이</corp_name>
+    <corp_eng_name>Kakao Pay Corp.</corp_eng_name>
+    <stock_code>377300</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164529</corp_code>
+    <corp_name>크래프톤</corp_name>
+    <corp_eng_name>KRAFTON, Inc.</corp_eng_name>
+    <stock_code>259960</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00356337</corp_code>
+    <corp_name>엔씨소프트</corp_name>
+    <corp_eng_name>NCSOFT Corporation</corp_eng_name>
+    <stock_code>036570</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164742</corp_code>
+    <corp_name>넷마블</corp_name>
+    <corp_eng_name>Netmarble Corporation</corp_eng_name>
+    <stock_code>251270</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00413046</corp_code>
+    <corp_name>CJ제일제당</corp_name>
+    <corp_eng_name>CJ CheilJedang Corp.</corp_eng_name>
+    <stock_code>097950</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164779</corp_code>
+    <corp_name>CJ대한통운</corp_name>
+    <corp_eng_name>CJ Logistics Corporation</corp_eng_name>
+    <stock_code>000120</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00126380</corp_code>
+    <corp_name>롯데케미칼</corp_name>
+    <corp_eng_name>Lotte Chemical Corporation</corp_eng_name>
+    <stock_code>011170</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164742</corp_code>
+    <corp_name>한화솔루션</corp_name>
+    <corp_eng_name>Hanwha Solutions Corporation</corp_eng_name>
+    <stock_code>009830</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00356337</corp_code>
+    <corp_name>두산에너빌리티</corp_name>
+    <corp_eng_name>Doosan Enerbility Co., Ltd.</corp_eng_name>
+    <stock_code>034020</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164779</corp_code>
+    <corp_name>HD현대</corp_name>
+    <corp_eng_name>HD Hyundai Co., Ltd.</corp_eng_name>
+    <stock_code>267250</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00413046</corp_code>
+    <corp_name>HD현대중공업</corp_name>
+    <corp_eng_name>HD Hyundai Heavy Industries Co., Ltd.</corp_eng_name>
+    <stock_code>329180</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00126380</corp_code>
+    <corp_name>삼성전기</corp_name>
+    <corp_eng_name>Samsung Electro-Mechanics Co., Ltd.</corp_eng_name>
+    <stock_code>009150</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164742</corp_code>
+    <corp_name>삼성엔지니어링</corp_name>
+    <corp_eng_name>Samsung Engineering Co., Ltd.</corp_eng_name>
+    <stock_code>028050</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00356337</corp_code>
+    <corp_name>삼성증권</corp_name>
+    <corp_eng_name>Samsung Securities Co., Ltd.</corp_eng_name>
+    <stock_code>016360</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164779</corp_code>
+    <corp_name>메리츠금융지주</corp_name>
+    <corp_eng_name>Meritz Financial Group Inc.</corp_eng_name>
+    <stock_code>138040</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00413046</corp_code>
+    <corp_name>우리금융지주</corp_name>
+    <corp_eng_name>Woori Financial Group Inc.</corp_eng_name>
+    <stock_code>316140</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00126380</corp_code>
+    <corp_name>아모레퍼시픽</corp_name>
+    <corp_eng_name>AMOREPACIFIC Corporation</corp_eng_name>
+    <stock_code>090430</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164742</corp_code>
+    <corp_name>코웨이</corp_name>
+    <corp_eng_name>Coway Co., Ltd.</corp_eng_name>
+    <stock_code>021240</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00356337</corp_code>
+    <corp_name>대한항공</corp_name>
+    <corp_eng_name>Korean Air Lines Co., Ltd.</corp_eng_name>
+    <stock_code>003490</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164779</corp_code>
+    <corp_name>현대건설</corp_name>
+    <corp_eng_name>Hyundai Engineering & Construction Co., Ltd.</corp_eng_name>
+    <stock_code>000720</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00413046</corp_code>
+    <corp_name>GS건설</corp_name>
+    <corp_eng_name>GS Engineering & Construction Corp.</corp_eng_name>
+    <stock_code>006360</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00126380</corp_code>
+    <corp_name>SK바이오팜</corp_name>
+    <corp_eng_name>SK Biopharmaceuticals Co., Ltd.</corp_eng_name>
+    <stock_code>326030</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164742</corp_code>
+    <corp_name>한미약품</corp_name>
+    <corp_eng_name>Hanmi Pharmaceutical Co., Ltd.</corp_eng_name>
+    <stock_code>128940</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00356337</corp_code>
+    <corp_name>유한양행</corp_name>
+    <corp_eng_name>Yuhan Corporation</corp_eng_name>
+    <stock_code>000100</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00164779</corp_code>
+    <corp_name>쿠팡</corp_name>
+    <corp_eng_name>Coupang, Inc.</corp_eng_name>
+    <stock_code>CPNG</stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+  <list>
+    <corp_code>00413046</corp_code>
+    <corp_name>배달의민족</corp_name>
+    <corp_eng_name>Woowa Brothers Corp.</corp_eng_name>
+    <stock_code> </stock_code>
+    <modify_date>20170630</modify_date>
+  </list>
+</result>
+
